@@ -28,7 +28,7 @@ h3 {
     color: #2E475D;   
     }
   
-.navbar{
+.navbar a{
     float: left;
     text-align: center;
     padding: 14px 16px;
