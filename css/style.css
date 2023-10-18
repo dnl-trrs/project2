@@ -29,11 +29,9 @@ h3 {
     }
   
 nav{
-    position: relative;
-    display: inline-block;
-    list-style-type: none;
-    text-decoration: none;
-    color: black;
+    float: left;
     text-align: center;
+    padding: 14px 16px;
+    color: black;
     font-size: 20px;
     }
