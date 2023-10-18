@@ -28,31 +28,11 @@ h3 {
     color: #2E475D;   
     }
   
-.container {
-    display: flex;
-    }
-  
-.item{
-    align-items: center;
-    justify-content: center;
-    }
-  
-.navbar a {
+nav{
     float: none;
     color: black;
     text-align: center;
     padding: 10px;
     text-decoration: none;
     font-size: 20px;
-    }
-  
-a { text-decoration: none; color:rgb(0, 0, 0); }
-  a:hover { text-decoration: none; color:rgba(12, 16, 228, 0.651); }
-  
-.sidebar {
-    color: black;
-    padding: 10px;
-    text-decoration: none;
-    font-size: 20px;
-    padding: 15px;
     }
