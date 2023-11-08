@@ -12,21 +12,21 @@ body {
     }
 
 h1 {
-    font-size: 80px;
+    font-size: 100px;
     font-family: 'Lexend Deca', sans-serif; 
     font-weight: bold;
     color: #2E475D;   
     }
 
 h2 {
-    font-size: 50px;
+    font-size: 60px;
     font-family: 'Lexend Deca', sans-serif; 
     font-weight: bold;
     color: #2E475D;   
     }
 
 h3 {
-    font-size: 40px;
+    font-size: 50px;
     font-family: 'Lexend Deca', sans-serif; 
     font-weight: bold;
     color: #2E475D;   
@@ -37,7 +37,7 @@ h3 {
     text-align: center;
     padding: 14px 16px;
     color: black;
-    font-size: 30px;
+    font-size: 40px;
     font-family: 'Lexend Deca', sans-serif; 
     font-weight: bold;
     text-decoration: none;
@@ -45,5 +45,5 @@ h3 {
 
 ul {
     list-style-type: none;
-    font-size: 35px;
+    font-size: 50px;
 }
