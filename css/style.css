@@ -81,3 +81,8 @@ nav, ul, li, a:hover {
     font-family: 'Orbitron', sans-serif;
     font-size: 24px;
 }
+
+.centered-image {
+  display: block;
+  margin: 0 auto;
+}
